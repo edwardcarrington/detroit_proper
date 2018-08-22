@@ -1,0 +1,25 @@
+River Creek,Downtown,Loft,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,175.0,10/11/2018
+Honey Bee,Corktown,Single Family,Free-Parking Garage Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven,100.0,08/07/2018
+Belle Isle Vantage Point,Downtown,Cottage,Free-Parking Garage Kitchen Iron Washer Dryer Microwave Refrigerator Stove Oven Waterfront,300.0,08/07/2018
+Woodward Springs,West Village,Single Family,Free-Parking Garage Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven,160.0,11/09/2018
+Grand Hideout,Corktown,Loft,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,145.0,08/09/2018
+Sherwood Row,Midtown,Condo,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven,130.0,08/09/2018
+Highland Ave,Midtown,Single Family,Free-Parking Garage Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,85.0,08/15/2018
+Greektown,Downtown,Condo,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,175.0,08/07/2018
+Corktown City,Downtown,Loft,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove OvenWaterfront,125.0,08/07/2018
+Portland Towers,Corktown,Condo,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,115.0,08/07/2018
+Kenmore Waters,Downtown,Cottage,Free-Parking Kitchen Iron Washer Dryer Microwave Refrigerator Stove Oven Waterfront,200.0,09/01/2018
+West Village Views,West Village,Single Family,Free-Parking Garage Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven,150.0,08/12/2018
+Park Place,West Village,Loft,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,175.0,10/07/2018
+Ave of Fashion,Corktown,Single Family,Free-Parking Garage Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven,100.0,09/20/2018
+Isle of Love,Downtown,Cottage,Free-Parking Garage Kitchen Iron Washer Dryer Microwave Refrigerator Stove Oven Waterfront,300.0,08/07/2018
+Woodward Springs,West Village,Single Family,Free-Parking Garage Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven,160.0,10/07/2018
+Beacon Park,Corktown,Loft,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,145.0,12/24/2018
+Slow Row Parkway,Midtown,Condo,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven,130.0,11/09/2018
+Polk Ave,Midtown,Single Family,Free-Parking Garage Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,85.0,01/15/2019
+Noni-town Greens,Midtown,Condo, Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,175.0,09/07/2018
+Motor City Loft,Downtown,Loft,Free-Parking Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove OvenWaterfront,125.0,12/07/2018
+Portland Belle,Corktown,Condo, Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven Waterfront,115.0,12/07/2018
+Isle Waters,Downtown,Cottage,Free-Parking Kitchen Iron Washer Dryer Microwave Refrigerator Stove Oven Waterfront,200.0,11/01/2018
+Park Village ,West Village,Single Family,Free-Parking Garage Wifi Kitchen TV Iron Washer Dryer Air Microwave Refrigerator Stove Oven,150.0,10/12/2018
+Yogi Bear Estates,Downtown,Single Family,Free-Parking Kitchen Iron Washer Dryer Microwave Refrigerator Stove Oven Waterfront,300.0,09/01/2018
